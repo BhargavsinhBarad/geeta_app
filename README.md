@@ -19,7 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 ![Screenshot_20230818-223147](https://github.com/BhargavsinhBarad/gita/assets/118417960/fa35be88-d85d-4284-869a-10595fc058f0)
 ![Screenshot_20230818-223539](https://github.com/BhargavsinhBarad/gita/assets/118417960/cbb3334c-be63-4f57-b4a0-2bdfb50b4474)
 ![Screenshot_20230818-223720](https://github.com/BhargavsinhBarad/gita/assets/118417960/bb8a5e6b-2aba-4428-93a8-4bbb49a17fbd)
-![Screenshot_20230821-221323.jpg](..%2FScreenshot_20230821-221323.jpg)
-![Screenshot_20230821-221343.jpg](..%2FScreenshot_20230821-221343.jpg)
-![Screenshot_20230821-221348.jpg](..%2FScreenshot_20230821-221348.jpg)
-![Screenshot_20230821-221352.jpg](..%2FScreenshot_20230821-221352.jpg)
+![Screenshot_20230821-221323](https://github.com/BhargavsinhBarad/gita/assets/118417960/35187ad6-c964-47b7-92d6-2a46ef3f07c6)
+![Screenshot_20230821-221343](https://github.com/BhargavsinhBarad/gita/assets/118417960/21a18937-f587-4752-b599-ab6ffad0b30b)
+
+![Screenshot_20230821-221348](https://github.com/BhargavsinhBarad/gita/assets/118417960/a08a7cc6-2ed7-4d6b-ba0c-b5c58006af1b)
+![Screenshot_20230821-221352](https://github.com/BhargavsinhBarad/gita/assets/118417960/642679a1-d20e-45e0-a912-61204d932dac)
