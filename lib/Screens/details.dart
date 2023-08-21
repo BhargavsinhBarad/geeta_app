@@ -58,31 +58,76 @@ class _detailsState extends State<details> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
-                    ElevatedButton(
-                      onPressed: () {
-                        setState(
-                          () {
-                            English = !English;
-                          },
-                        );
+                    GestureDetector(
+                      onTap: () {
+                        setState(() {
+                          English = !English;
+                        });
                       },
-                      child: Text("English"),
+                      child: Container(
+                        height: 40,
+                        width: 80,
+                        decoration: BoxDecoration(
+                          color: Colors.white,
+                          borderRadius: BorderRadius.circular(40),
+                          image: DecorationImage(
+                              image: NetworkImage(
+                                  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbiOEPJOf6BMDUv0Hk_NVqHrSWdAVFjo7Ojw&usqp=CAU"),
+                              fit: BoxFit.cover),
+                        ),
+                        child: Center(
+                            child: Text(
+                          "English",
+                          style: TextStyle(color: Colors.white),
+                        )),
+                      ),
                     ),
-                    ElevatedButton(
-                      onPressed: () {
+                    GestureDetector(
+                      onTap: () {
                         setState(() {
                           Hindi = !Hindi;
                         });
                       },
-                      child: Text("Hindi"),
+                      child: Container(
+                        height: 40,
+                        width: 80,
+                        decoration: BoxDecoration(
+                          color: Colors.white,
+                          borderRadius: BorderRadius.circular(40),
+                          image: DecorationImage(
+                              image: NetworkImage(
+                                  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbiOEPJOf6BMDUv0Hk_NVqHrSWdAVFjo7Ojw&usqp=CAU"),
+                              fit: BoxFit.cover),
+                        ),
+                        child: Center(
+                            child: Text(
+                          "Hindi",
+                          style: TextStyle(color: Colors.white),
+                        )),
+                      ),
                     ),
-                    ElevatedButton(
-                      onPressed: () {
+                    GestureDetector(
+                      onTap: () {
                         setState(() {
                           Gujarti = !Gujarti;
                         });
                       },
-                      child: Center(child: Text("Gujarati")),
+                      child: Container(
+                        height: 40,
+                        width: 80,
+                        decoration: BoxDecoration(
+                            color: Colors.white,
+                            borderRadius: BorderRadius.circular(40),
+                            image: DecorationImage(
+                                image: NetworkImage(
+                                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbiOEPJOf6BMDUv0Hk_NVqHrSWdAVFjo7Ojw&usqp=CAU"),
+                                fit: BoxFit.cover)),
+                        child: Center(
+                            child: Text(
+                          "Gujarti",
+                          style: TextStyle(color: Colors.white),
+                        )),
+                      ),
                     ),
                   ],
                 ),
